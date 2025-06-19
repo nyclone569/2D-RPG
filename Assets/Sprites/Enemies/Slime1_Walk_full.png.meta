@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: dac82b8715bc0c549a534ca6bc0fa9b1
+guid: d3d4e0da8aa8be04fa05b6ca32e6881c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,7 +110,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Slime1_Run_shadow_0
+      name: Slime1_Walk_full_0
       rect:
         serializedVersion: 2
         x: 0
@@ -125,14 +125,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0498d68859fd5c741b2532cebe07775c
-      internalID: -2046585205
+      spriteID: 7bd54f4e4e4f524429dc31921e2d0ad2
+      internalID: 16728796
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime1_Run_shadow_1
+      name: Slime1_Walk_full_1
       rect:
         serializedVersion: 2
         x: 64
@@ -147,14 +147,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8c628807527acd4a9c65d7874468004
-      internalID: 58791190
+      spriteID: be6d6b34567cdbb4899b42184bd3a1e2
+      internalID: -1516795674
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime1_Run_shadow_2
+      name: Slime1_Walk_full_2
       rect:
         serializedVersion: 2
         x: 128
@@ -169,14 +169,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb3dda9ed76b7074b810857aa06ab5fd
-      internalID: -1564598258
+      spriteID: 6764f63ef7827a2459d99dcd310a3d28
+      internalID: 983617707
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime1_Run_shadow_3
+      name: Slime1_Walk_full_3
       rect:
         serializedVersion: 2
         x: 192
@@ -191,14 +191,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15bc9fd2a70a25c4db317bfaceff46e9
-      internalID: -121441502
+      spriteID: 3f9ad8d5a026c06469c06a39acc7da8b
+      internalID: -64207575
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime1_Run_shadow_4
+      name: Slime1_Walk_full_4
       rect:
         serializedVersion: 2
         x: 256
@@ -213,14 +213,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 077933dc9f90b3447a7a8172f441d474
-      internalID: -103062747
+      spriteID: 82fb40ec7189b6140b4e91ed1b522690
+      internalID: -1853731722
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime1_Run_shadow_5
+      name: Slime1_Walk_full_5
       rect:
         serializedVersion: 2
         x: 320
@@ -235,14 +235,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a8fe56c044bb40042af77e18ad254d07
-      internalID: 444529638
+      spriteID: 5d1b2262828cdcb4fab7b99dc32153f0
+      internalID: -1176550722
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime1_Run_shadow_6
+      name: Slime1_Walk_full_6
       rect:
         serializedVersion: 2
         x: 384
@@ -257,14 +257,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb2bec5e9f68a564cbe6d962326fa5db
-      internalID: 194073472
+      spriteID: 20bc7145e6c1faf4093d11e2e713e2f9
+      internalID: -187345766
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime1_Run_shadow_7
+      name: Slime1_Walk_full_7
       rect:
         serializedVersion: 2
         x: 448
@@ -279,14 +279,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2778f799860c6724aa9aedd5d1833aa6
-      internalID: 1888837197
+      spriteID: e921e7e6894d7044780daf9b616cd038
+      internalID: -296531429
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime1_Run_shadow_8
+      name: Slime1_Walk_full_8
       rect:
         serializedVersion: 2
         x: 0
@@ -301,14 +301,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d4160f36b81d2246958fa041106a394
-      internalID: -1524252082
+      spriteID: 03ad38bfa6dbcc74abeee4af23b18aee
+      internalID: -294732294
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime1_Run_shadow_9
+      name: Slime1_Walk_full_9
       rect:
         serializedVersion: 2
         x: 64
@@ -323,14 +323,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 60095f153ecb7d54599d8db49e0f9faf
-      internalID: -1001436731
+      spriteID: ea02aa7e03850af4caa04cd1c690ab9d
+      internalID: -1093771402
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime1_Run_shadow_10
+      name: Slime1_Walk_full_10
       rect:
         serializedVersion: 2
         x: 128
@@ -345,14 +345,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef2b605b03d9b704aa52e5401260bdc3
-      internalID: -967933499
+      spriteID: c6be5fc9bc93c2645bea8fcaa7181fe9
+      internalID: -635809252
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime1_Run_shadow_11
+      name: Slime1_Walk_full_11
       rect:
         serializedVersion: 2
         x: 192
@@ -367,14 +367,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6c543dbc1935f4b4b992960b2d7468ac
-      internalID: -312835142
+      spriteID: b04e0d71c1ed9304ba9c63b81a898574
+      internalID: -622231923
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime1_Run_shadow_12
+      name: Slime1_Walk_full_12
       rect:
         serializedVersion: 2
         x: 256
@@ -389,14 +389,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d38297a6dd07a6d43b30e96cca4cdda6
-      internalID: -1575015369
+      spriteID: abf4525fcd6b4814ea156cf3f99a9b81
+      internalID: 606934151
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime1_Run_shadow_13
+      name: Slime1_Walk_full_13
       rect:
         serializedVersion: 2
         x: 320
@@ -411,14 +411,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e2006ee6611d7e44c8ce8591e8e7ed6e
-      internalID: 471907282
+      spriteID: 28c23ea68442c844f877021feaf7e557
+      internalID: -476740145
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime1_Run_shadow_14
+      name: Slime1_Walk_full_14
       rect:
         serializedVersion: 2
         x: 384
@@ -433,14 +433,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9be94ccf073b181479362a16dff2cb59
-      internalID: -1787550925
+      spriteID: 07c4945b9f9cd124eb0d627db33e119e
+      internalID: 1944299444
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime1_Run_shadow_15
+      name: Slime1_Walk_full_15
       rect:
         serializedVersion: 2
         x: 448
@@ -455,14 +455,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: be3d552c178846c49bbc2305d9c75d16
-      internalID: 1969357614
+      spriteID: 6afaa0dd48df1d743a1c0e60c243fa04
+      internalID: 1249169121
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime1_Run_shadow_16
+      name: Slime1_Walk_full_16
       rect:
         serializedVersion: 2
         x: 0
@@ -477,14 +477,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 734e89ec3b100be4b85340d88a5c1ac8
-      internalID: 2052207583
+      spriteID: bbef92a8dd95eec4ea11e2ebdf80e9b7
+      internalID: -1583380743
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime1_Run_shadow_17
+      name: Slime1_Walk_full_17
       rect:
         serializedVersion: 2
         x: 64
@@ -499,14 +499,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ccb09f53f448494fbae5906babcbfca
-      internalID: -1747327483
+      spriteID: 2988fa010748bbc4c885a36733367c7e
+      internalID: -178092683
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime1_Run_shadow_18
+      name: Slime1_Walk_full_18
       rect:
         serializedVersion: 2
         x: 128
@@ -521,14 +521,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1d594d569616fd641b630179b7b91658
-      internalID: -946902102
+      spriteID: 6ee1064f786228849a14fe9b1f032c16
+      internalID: -1676255235
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime1_Run_shadow_19
+      name: Slime1_Walk_full_19
       rect:
         serializedVersion: 2
         x: 192
@@ -543,14 +543,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b63b08c7e2cad34a8e2b01dc3bcecd7
-      internalID: -178980737
+      spriteID: f102daa1871e14740a70325904754163
+      internalID: 802950339
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime1_Run_shadow_20
+      name: Slime1_Walk_full_20
       rect:
         serializedVersion: 2
         x: 256
@@ -565,14 +565,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7703c2c03a25acf45929edf6d104702a
-      internalID: 133180772
+      spriteID: 7d438b31daf5dcb4dbc52c53e629830f
+      internalID: 524907769
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime1_Run_shadow_21
+      name: Slime1_Walk_full_21
       rect:
         serializedVersion: 2
         x: 320
@@ -587,14 +587,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c8a391fbda1e3c47a8bcdf4cc19fe18
-      internalID: 165710804
+      spriteID: 7ddc241b6e0dc7a469f52d0f22dfabce
+      internalID: 690696593
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime1_Run_shadow_22
+      name: Slime1_Walk_full_22
       rect:
         serializedVersion: 2
         x: 384
@@ -609,14 +609,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7d1ee4abcd52f9942b6189ec59e88f80
-      internalID: -1627972304
+      spriteID: 2cf16a72cd8ea694a96568c741ee6e2c
+      internalID: 90762448
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime1_Run_shadow_23
+      name: Slime1_Walk_full_23
       rect:
         serializedVersion: 2
         x: 448
@@ -631,14 +631,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 438c6cb474e467244a8e8ff95a6fc26f
-      internalID: 148212834
+      spriteID: 5fcfac8512ac5a944b31cb811dc4844b
+      internalID: -1970109691
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime1_Run_shadow_24
+      name: Slime1_Walk_full_24
       rect:
         serializedVersion: 2
         x: 0
@@ -653,14 +653,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c69518e7921422649bbc54b96da9d3ea
-      internalID: 1869915806
+      spriteID: 07bbfb7497f59be4793fa8cb53fc692e
+      internalID: 331498127
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime1_Run_shadow_25
+      name: Slime1_Walk_full_25
       rect:
         serializedVersion: 2
         x: 64
@@ -675,14 +675,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f3475a97515cc4041aa61cb3cdf9ab0b
-      internalID: -1582551073
+      spriteID: d98b498cda1838b40a912479dfc04433
+      internalID: 1191288553
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime1_Run_shadow_26
+      name: Slime1_Walk_full_26
       rect:
         serializedVersion: 2
         x: 128
@@ -697,14 +697,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 317a95a98429b1249ae2ac8195d329e1
-      internalID: 2017504267
+      spriteID: cadc792e468fc4c4a9c9dcfe901e6351
+      internalID: 1105659379
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime1_Run_shadow_27
+      name: Slime1_Walk_full_27
       rect:
         serializedVersion: 2
         x: 192
@@ -719,14 +719,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 17ef66d66a8dc3248a97943ee9a12f7d
-      internalID: -1356462699
+      spriteID: fcc00cd5fbdca7b4096b0a0b42cb7037
+      internalID: -123301816
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime1_Run_shadow_28
+      name: Slime1_Walk_full_28
       rect:
         serializedVersion: 2
         x: 256
@@ -741,14 +741,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 46bca6c84b5d9da46adafa981aa2bfba
-      internalID: 1436661615
+      spriteID: 2908c71d63bdf564996a8b32127ba148
+      internalID: 371921936
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime1_Run_shadow_29
+      name: Slime1_Walk_full_29
       rect:
         serializedVersion: 2
         x: 320
@@ -763,14 +763,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d48c9c9d6240aa84991d0067ebabeeb8
-      internalID: 1321937644
+      spriteID: 44b8063ab1bd88644a6b5538cb486388
+      internalID: 465655527
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime1_Run_shadow_30
+      name: Slime1_Walk_full_30
       rect:
         serializedVersion: 2
         x: 384
@@ -785,14 +785,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 387a9d4ef839c5c4491ba698840a4e67
-      internalID: -693002460
+      spriteID: 668ea9437939f16499d9e70941605e7d
+      internalID: 182856792
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime1_Run_shadow_31
+      name: Slime1_Walk_full_31
       rect:
         serializedVersion: 2
         x: 448
@@ -807,8 +807,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43a5ad18ad2348648b0a4d06568e3ca2
-      internalID: -714750173
+      spriteID: 88881378d97cddc469de631fba18ac91
+      internalID: 949578896
       vertices: []
       indices: 
       edges: []
@@ -829,38 +829,38 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Slime1_Run_shadow_0: -2046585205
-      Slime1_Run_shadow_1: 58791190
-      Slime1_Run_shadow_10: -967933499
-      Slime1_Run_shadow_11: -312835142
-      Slime1_Run_shadow_12: -1575015369
-      Slime1_Run_shadow_13: 471907282
-      Slime1_Run_shadow_14: -1787550925
-      Slime1_Run_shadow_15: 1969357614
-      Slime1_Run_shadow_16: 2052207583
-      Slime1_Run_shadow_17: -1747327483
-      Slime1_Run_shadow_18: -946902102
-      Slime1_Run_shadow_19: -178980737
-      Slime1_Run_shadow_2: -1564598258
-      Slime1_Run_shadow_20: 133180772
-      Slime1_Run_shadow_21: 165710804
-      Slime1_Run_shadow_22: -1627972304
-      Slime1_Run_shadow_23: 148212834
-      Slime1_Run_shadow_24: 1869915806
-      Slime1_Run_shadow_25: -1582551073
-      Slime1_Run_shadow_26: 2017504267
-      Slime1_Run_shadow_27: -1356462699
-      Slime1_Run_shadow_28: 1436661615
-      Slime1_Run_shadow_29: 1321937644
-      Slime1_Run_shadow_3: -121441502
-      Slime1_Run_shadow_30: -693002460
-      Slime1_Run_shadow_31: -714750173
-      Slime1_Run_shadow_4: -103062747
-      Slime1_Run_shadow_5: 444529638
-      Slime1_Run_shadow_6: 194073472
-      Slime1_Run_shadow_7: 1888837197
-      Slime1_Run_shadow_8: -1524252082
-      Slime1_Run_shadow_9: -1001436731
+      Slime1_Walk_full_0: 16728796
+      Slime1_Walk_full_1: -1516795674
+      Slime1_Walk_full_10: -635809252
+      Slime1_Walk_full_11: -622231923
+      Slime1_Walk_full_12: 606934151
+      Slime1_Walk_full_13: -476740145
+      Slime1_Walk_full_14: 1944299444
+      Slime1_Walk_full_15: 1249169121
+      Slime1_Walk_full_16: -1583380743
+      Slime1_Walk_full_17: -178092683
+      Slime1_Walk_full_18: -1676255235
+      Slime1_Walk_full_19: 802950339
+      Slime1_Walk_full_2: 983617707
+      Slime1_Walk_full_20: 524907769
+      Slime1_Walk_full_21: 690696593
+      Slime1_Walk_full_22: 90762448
+      Slime1_Walk_full_23: -1970109691
+      Slime1_Walk_full_24: 331498127
+      Slime1_Walk_full_25: 1191288553
+      Slime1_Walk_full_26: 1105659379
+      Slime1_Walk_full_27: -123301816
+      Slime1_Walk_full_28: 371921936
+      Slime1_Walk_full_29: 465655527
+      Slime1_Walk_full_3: -64207575
+      Slime1_Walk_full_30: 182856792
+      Slime1_Walk_full_31: 949578896
+      Slime1_Walk_full_4: -1853731722
+      Slime1_Walk_full_5: -1176550722
+      Slime1_Walk_full_6: -187345766
+      Slime1_Walk_full_7: -296531429
+      Slime1_Walk_full_8: -294732294
+      Slime1_Walk_full_9: -1093771402
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

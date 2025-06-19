@@ -15,9 +15,13 @@ public class EnemyPathfinding : MonoBehaviour
         rb.MovePosition(rb.position + moveDir * (moveSpeed * Time.deltaTime));
     }
 
+    public void StopMoving()
+    {
+        moveDir = Vector2.zero;
+    }
+
     public void MoveTo(Vector2 targetPosition)
     {
-
         moveDir = targetPosition;
     }
 }
