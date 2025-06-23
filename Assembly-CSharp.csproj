@@ -48,14 +48,16 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.1.7f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\EnemyAI.cs" />
-    <Compile Include="Assets\Scripts\DamageSource.cs" />
-    <Compile Include="Assets\Scripts\PlayerController.cs" />
-    <Compile Include="Assets\Scripts\SlashAnim.cs" />
-    <Compile Include="Assets\Scripts\Player Controls.cs" />
-    <Compile Include="Assets\Scripts\ActiveWeapon.cs" />
-    <Compile Include="Assets\Scripts\EnemyPathfinding.cs" />
-    <Compile Include="Assets\Scripts\Sword.cs" />
+    <Compile Include="Assets\Scripts\Player\Player Controls.cs" />
+    <Compile Include="Assets\Scripts\Player\ActiveWeapon.cs" />
+    <Compile Include="Assets\Scripts\Enemies\EnemyPathfinding.cs" />
+    <Compile Include="Assets\Scripts\Enemies\EnemyHealth.cs" />
+    <Compile Include="Assets\Scripts\Misc\KnockBack.cs" />
+    <Compile Include="Assets\Scripts\Player\SlashAnim.cs" />
+    <Compile Include="Assets\Scripts\Player\Sword.cs" />
+    <Compile Include="Assets\Scripts\Player\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\Enemies\DamageSource.cs" />
+    <Compile Include="Assets\Scripts\Enemies\EnemyAI.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

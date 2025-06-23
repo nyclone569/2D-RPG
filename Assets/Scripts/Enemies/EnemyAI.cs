@@ -7,7 +7,9 @@ public class EnemyAI : MonoBehaviour
     private enum State
     {
         Idle,
-        Roaming
+        Roaming,
+        Hurt,
+        Death
     }
 
     private State state;
