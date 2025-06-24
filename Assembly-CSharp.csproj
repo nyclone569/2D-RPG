@@ -53,11 +53,11 @@
     <Compile Include="Assets\Scripts\Enemies\EnemyPathfinding.cs" />
     <Compile Include="Assets\Scripts\Enemies\EnemyHealth.cs" />
     <Compile Include="Assets\Scripts\Misc\KnockBack.cs" />
-    <Compile Include="Assets\Scripts\Player\SlashAnim.cs" />
     <Compile Include="Assets\Scripts\Player\Sword.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerController.cs" />
     <Compile Include="Assets\Scripts\Enemies\DamageSource.cs" />
     <Compile Include="Assets\Scripts\Enemies\EnemyAI.cs" />
+    <Compile Include="Assets\Scripts\Player\Self Destroy.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
